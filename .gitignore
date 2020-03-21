@@ -1,0 +1,8 @@
+#Finder Organization .DS_Store
+.DS_Store
+
+#Basic Arduino Libraries
+libraries/
+
+#Arduino Build Files
+.hex
